@@ -15,6 +15,7 @@ This involves reading the current search params and per suggested filter creatin
 Repo link: https://github.com/edgy-sphere/sveltekit-page-store-updates-after-component
 
 - Clone: `git clone https://github.com/edgy-sphere/sveltekit-page-store-updates-after-component.git`
+- Install dependencies: `npm i`
 - Start the dev server: `npm run dev`
 - Visit `localhost:5173` in a contemporary browser.
 
