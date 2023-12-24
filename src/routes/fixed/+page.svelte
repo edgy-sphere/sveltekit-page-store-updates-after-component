@@ -9,6 +9,7 @@
 <div>
     <a href="/">HOME</a>
     <a href="/fixed">FIXED</a>
+    <a href="/?year=2019">TEST HOME "year=2019"</a>
     {#each data.movies as movie}
         <MovieComponent {movie} />
     {/each}
